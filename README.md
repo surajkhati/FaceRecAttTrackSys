@@ -7,7 +7,7 @@
 
 **FRATS** is a very simple attendance tracking system. It uses face-recognition to facilitate the process of taking attendance. Minimum human operation is required to run the program. It can reduce manual/proxy errors that occur using the traditional method of pen/paper. It stores the attendance logs as JSON files and converts them into PDF files and can email them to the respective lecturers. 
 
-The project is still in it's initial stages and will be improved later on. Please view the to-do section to see what I will be working on.
+The project is still in it's initial stages and will be improved later on. Please view the to-do section to see what I migght be working on in the future.
 
 ## Getting Started
 
