@@ -27,7 +27,7 @@ These are the only dependencies required to run the project. Python3 is recommen
 ### Installing
 
 Installing the project is very simple. Just clone the repository or download it:
-```git clone https://github.com/jeezcalmdown88/FaceRecAttTrackSys/edit/main/README.md```
+```git clone https://github.com/jeezcalmdown88/FaceRecAttTrackSys/```
 
 ### Executing program
 
